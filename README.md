@@ -1,2 +1,2 @@
 # DrawingDelver
- Processing prototype that turns screenshits of drawings into playable levels
+ Processing prototype that turns screenshots of drawings into playable levels
