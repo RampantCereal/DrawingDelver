@@ -1,0 +1,11 @@
+- Draw on a blank sheet
+
+COLORS AND SHAPES
+ - Black Square: Player character
+ - Blue: Walls (enemies and the player cannot go to these areas)
+ - Red : Anyone who enetrs these areas will die
+ - Green: Goal
+ - Yellow Triangle: Hearts (recover health for the player)
+ - Yellow Square: Coins (getting allows the player to reach the goal)
+ - Purple Triangle: Fly enemy (moves continuously toward the player)
+ - Purple Square: Slug (moves in bursts)

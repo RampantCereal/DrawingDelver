@@ -1,0 +1,6 @@
+Arrow Keys --- Movement
+Spacebar --- Attack
+
+UI
+test --- will use an image in the data folder to generate the level
+take --- will take a screenshot using the camera of the device and generate a level based on that
